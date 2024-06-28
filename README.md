@@ -1,1 +1,3 @@
 # MedInsight
+## MedInsight: Unveiling Health Patterns
+Developed a machine learning-based healthcare application, MedInsight, to predict diseases based on user-input symptoms. Utilized decision tree and support vector machine (SVM) algorithms for accurate diagnosis. Implemented a user-friendly interface using Streamlit, enhancing accessibility and user experience. The project involved extensive data collection and preprocessing from public healthcare databases, ensuring comprehensive coverage of symptoms and diseases. Integrated Natural Language Processing (NLP) techniques to parse and understand user inputs effectively. The application also provides detailed disease descriptions and precautionary measures, offering actionable advice to users.
